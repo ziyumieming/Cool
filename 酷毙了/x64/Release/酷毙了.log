@@ -1,0 +1,13 @@
+﻿  WindowManager.cpp
+D:\语言尝试\C++尝试\C++练习\酷毙了\酷毙了\WindowManager.cpp(51,12): warning C4244: “初始化”: 从“_Rep”转换到“int”，可能丢失数据
+D:\语言尝试\C++尝试\C++练习\酷毙了\酷毙了\WindowManager.cpp(51,12): warning C4244:         with
+D:\语言尝试\C++尝试\C++练习\酷毙了\酷毙了\WindowManager.cpp(51,12): warning C4244:         [
+D:\语言尝试\C++尝试\C++练习\酷毙了\酷毙了\WindowManager.cpp(51,12): warning C4244:             _Rep=__int64
+D:\语言尝试\C++尝试\C++练习\酷毙了\酷毙了\WindowManager.cpp(51,12): warning C4244:         ]
+D:\语言尝试\C++尝试\C++练习\酷毙了\酷毙了\WindowManager.cpp(328,11): warning C4101: “bmpCursor”: 未引用的局部变量
+  正在生成代码
+  2 of 520 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  酷毙了.vcxproj -> D:\语言尝试\C++尝试\C++练习\酷毙了\x64\Release\酷毙了.exe
